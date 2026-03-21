@@ -1,9 +1,11 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,2&height=300&section=header&text=Den%20A%20Ev&fontSize=90&desc=Build%20%26%20Automate%20%E2%80%A2%20AI%20Agents%20%E2%80%A2%20Fullstack&descAlignY=70&descAlign=50&fontColor=ffffff" />
+  <img src="header.png" alt="Den A Ev - AI Agent Architect banner" width="100%" />
 </p>
 
+<h1 align="center">Den A Ev</h1>
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&pause=1000&color=3B82F6&center=true&vCenter=true&width=800&lines=I+automate+things+so+I+don't+have+to+do+them...;...then+I+spend+10x+the+time+maintaining+the+automation+🤷‍♂️;Teaching+AI+Agents+how+to+do+my+job...;Building+heavy+backends+%26+high-end+interfaces" alt="Typing SVG" />
+  <b>Build & Automate 🛠️ UI/UX & Fullstack DNA</b><br>
+  <i>Deep into AI Agents, n8n & Vibecoding. High-end interfaces, heavy backends.</i>
 </p>
 
 ---
