@@ -44,8 +44,8 @@ music_DNA: 🎧 Underworld / Sepultura
 ## 📈 GitHub Telemetry
 
 <div align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=denaev-dev&show_icons=true&theme=gradient&hide_border=true&bg_color=ffffff" />
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denaev-dev&theme=gradient&hide_border=true&layout=compact&bg_color=ffffff" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=denaev-dev&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=denaev-dev&theme=tokyonight&hide_border=true&layout=compact&bg_color=0D1117" />
 </div>
 
 ---
