@@ -36,7 +36,7 @@ hobbies:
 
    </td>
     <td width="40%">
-      <img src="https://github.com/denaev-dev.png" width="100%" alt="Den" style="border-radius: 50%; border: 3px solid #00FF99;">
+      <img src="avatar_side.png" width="100%" alt="Den" style="border-radius: 50%; border: 3px solid #00FF99;">
       <p align="center"><em>"Automating the boring parts of life, one agent at a time."</em></p>
     </td>
   </tr>
