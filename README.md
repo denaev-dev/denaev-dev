@@ -37,7 +37,9 @@ hobbies:
    </td>
     <td width="40%">
       <img src="https://github.com/denaev-dev.png" width="100%" alt="Den" style="border-radius: 50%; border: 3px solid #00FF99;">
-      <p align="center"><em>"Automating the boring parts of life, one agent at a time."</em></p>
+      <p align="center">
+        <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=13&center=true&vCenter=true&width=350&height=50&pause=3000&color=00FF99&random=true&lines=Automating+the+boring+parts+of+life...;Vibecoding+the+autonomous+future.;Less+manual+clicks,+more+autonomy.;Engineering+elegant+agentic+solutions.;Turning+coffee+into+autonomous+agents." style="width: 100%; max-width: 350px;" alt="Quotes" />
+      </p>
     </td>
   </tr>
 </table>
