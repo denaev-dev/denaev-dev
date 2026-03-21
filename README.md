@@ -1,5 +1,4 @@
 <div align="center">
-  <img src="header.png" alt="Den A Ev's AI Universe" width="100%">
 
 <h1 align="center">
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=30&color=00FF99&center=true&vCenter=true&width=700&height=70&duration=1000&lines=Hello+There!+👋;+I'm+Den+A+Ev+🤖;+Senior+AI+Orchestrator;+Building+Agentic+Futures" />
@@ -79,18 +78,6 @@ hobbies:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=denaev-dev&theme=radical" alt="GitHub Streak" width="48%">
 </div>
 
-<br>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=denaev-dev&layout=compact&theme=radical" alt="Top Languages" width="40%">
-</div>
-
-<br>
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=denaev-dev&theme=radical&column=4&margin-w=15&margin-h=15" alt="GitHub Trophies">
-</div>
-
 </details>
 
 ---
@@ -100,9 +87,12 @@ hobbies:
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://x.com/e_goo16535" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="Denaev" height="30" width="40" /></a>
-<a href="https://github.com/denaev-dev" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/github.svg" alt="GitHub" height="30" width="40" /></a>
-<a href="mailto:den.evstropov@mail.ru" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/mail.svg" alt="Email" height="30" width="40" /></a>
+  <a href="https://x.com/e_goo16535">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter" />
+  </a>
+  <a href="mailto:den.evstropov@mail.ru">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 </details>
