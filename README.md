@@ -13,7 +13,7 @@
 ---
 
 <details open>
-<summary><h2>👨‍💻 About Me</h2></summary>
+<summary><h2>About Me</h2></summary>
 
 <table>
   <tr>
@@ -45,12 +45,12 @@ hobbies:
 </table>
 
 <details open>
-<summary><h2>🌟 My Journey</h2></summary>
+<summary><h2>My Journey</h2></summary>
 
 - 💡 Vibecoding & autonomous automation pioneer
 - 🏆 Deep expertise in high-end interfaces & heavy backends
-- 🌍 Vision to fully automate Web3 routines
-- 🤝 Integration specialist for @n8n-io
+- 🌍 Vision to fully automate routines
+- 🤝 Integration specialist
 
 </details>
 
@@ -59,7 +59,7 @@ hobbies:
 ---
 
 <details open>
-<summary><h2>⚒️ Languages-Frameworks-Tools ⚒️</h2></summary>
+<summary><h2>Languages-Frameworks-Tools</h2></summary>
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vscode,github,figma,tailwind,bash" />
@@ -73,7 +73,7 @@ hobbies:
 ---
 
 <details open>
-<summary><h2>📊 GitHub Analytics</h2></summary>
+<summary><h2>GitHub Analytics</h2></summary>
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=denaev-dev&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" width="48%">
@@ -85,7 +85,7 @@ hobbies:
 ---
 
 <details open>
-<summary><h2>🤝 Connect & Collaborate</h2></summary>
+<summary><h2>Connect & Collaborate</h2></summary>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
