@@ -48,5 +48,4 @@ hobbies:
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=denaev-dev&color=00FF99" alt="Profile Views">
-  © 2026 Den A Ev | All rights reserved.
 </div>
