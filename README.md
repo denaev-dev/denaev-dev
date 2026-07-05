@@ -25,11 +25,11 @@ location: localhost
 focus: Build & Automate. AI Agents, n8n, UI/UX, and Vibecoding.
 mission: Engineering elegant, automated solutions for complex problems.
 achievements:
-  - 🤖 Architected full-cycle Autonomous Economic Agents (AEA)
-  - 💹 Developed cross-exchange DeFi Arbitrage bots
-  - 🛠 Crafting high-end interfaces & heavy backends
+  - Architected full-cycle Autonomous Economic Agents (AEA)
+  - Developed cross-exchange DeFi Arbitrage bots
+  - Crafting high-end interfaces & heavy backends
 hobbies:
-  - 🎧 Underworld / Sepultura
+  - Underworld / Sepultura
   - Algorithmic Trading
   - Exploring LLM architectures
 ```
@@ -43,61 +43,6 @@ hobbies:
     </td>
   </tr>
 </table>
-
-<details open>
-<summary><h2>My Journey</h2></summary>
-
-- 💡 Vibecoding & autonomous automation pioneer
-- 🏆 Deep expertise in high-end interfaces & heavy backends
-- 🌍 Vision to fully automate routines
-- 🤝 Integration specialist
-
-</details>
-
-</details>
-
----
-
-<details open>
-<summary><h2>Languages-Frameworks-Tools</h2></summary>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=react,ts,js,html,css,vscode,github,figma,tailwind,bash" />
-    <br><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,docker,postgres,linux,rust,solidity,supabase" /><br>
-</div>
-
-<br/>
-</details>
-
----
-
-<details open>
-<summary><h2>GitHub Analytics</h2></summary>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=denaev-dev&show_icons=true&count_private=true&hide=issues&theme=radical" alt="GitHub Stats" width="48%">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=denaev-dev&theme=radical" alt="GitHub Streak" width="48%">
-</div>
-
-</details>
-
----
-
-<details open>
-<summary><h2>Connect & Collaborate</h2></summary>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-  <a href="https://x.com/e_goo16535">
-    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=twitter&logoColor=white" alt="X/Twitter" />
-  </a>
-  <a href="mailto:den.evstropov@mail.ru">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-</p>
-
-</details>
 
 ---
 
